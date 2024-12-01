@@ -12,7 +12,7 @@ on:
 jobs:
   scaffold-service:
     env:
-      ORG_NAME: gibrutman
+      ORG_NAME: giladbru
     runs-on: ubuntu-latest
     steps:
       - uses: port-labs/cookiecutter-gha@v1.1.1
