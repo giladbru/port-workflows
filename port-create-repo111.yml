@@ -7,6 +7,8 @@ on:
         description: Includes the action's run id
       service_name:
         required: true
+
+        TESTEST
         description: The name of the new service
         type: string
 jobs:
