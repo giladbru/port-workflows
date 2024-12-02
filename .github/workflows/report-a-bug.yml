@@ -96,7 +96,7 @@ jobs:
         id: create
         uses: atlassian/gajira-create@v3
         with:
-          project: PORT
+          project: PORTDEMO
           issuetype: Bug
           summary: ${{inputs.short_title}}
           description: |
